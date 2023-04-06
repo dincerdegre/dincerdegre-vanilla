@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*
+Theme Name: DincerDegre
+Version: 2021
+Author: Dincer Degre
+Author URI: https://www.dincerdegre.com/
+*/
+
+* {margin:0;}
+html{font: size 12px;line-height: 12px;}
+body {line-height:1.1rem;margin:0 auto;background:transparent url(images/back.png) repeat-x top left;}
+.clear {clear:both;}
+.blue {color:#2e80fa;}
+a.logo {font-weight: bold;text-decoration: none;font-size:1.3rem;}
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 0.05rem solid #e5e5e5;
+}
